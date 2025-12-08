@@ -2,7 +2,7 @@
 
 A personal repository to track my day-to-day learning in **data analytics**, **Python**, and related topics.  
 This repo serves as a structured log of concepts, techniques, and insights I gather while learning. Since I often have trouble remembering concepts, revisiting them is crucial — this repository helps me revise and reinforce my learning.  
-If you are a beginner in data analytics and unsure where to start, this might be the right resource for you.
+If you are a beginner in data analytics and unsure where to start, this might be the right resource for you
 
 ![🤨](https://github.com/user-attachments/assets/fd08256b-5222-4ba4-9563-84f7d61a2928)
 
